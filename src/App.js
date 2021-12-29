@@ -46,7 +46,7 @@ const App = () => {
     // if (add/) {
     // // setactivedata((data) =>setactivedata([...activedata, { value: inputvalue }]),
     // )
-    // kohnsoklbdgnkln
+    // kohnsoklbdgnklnlbadsgkljbkljbkljasbdfkjbgkljb
     //
     // setactivedata([...activedata, { title: inputvalue }])
 
