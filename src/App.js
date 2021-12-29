@@ -45,7 +45,7 @@ const App = () => {
     console.log(inputvalue)
     // if (add/) {
     // // setactivedata((data) =>setactivedata([...activedata, { value: inputvalue }]),
-    // )123456
+    // )
 
     //
     // setactivedata([...activedata, { title: inputvalue }])
