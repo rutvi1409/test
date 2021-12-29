@@ -46,6 +46,8 @@ const App = () => {
     // if (add/) {
     // // setactivedata((data) =>setactivedata([...activedata, { value: inputvalue }]),
     // )
+
+    //
     // setactivedata([...activedata, { title: inputvalue }])
 
   }
